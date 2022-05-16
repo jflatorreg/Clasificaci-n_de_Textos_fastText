@@ -1,2 +1,2 @@
-# Clasificaci-n_de_Textos_fastText
-Clasificación de Textos fastText
+# Clasificaciònn de Textos fastText
+Se presenta el flujo de trabajo para la calsificaciòn de textos no sipervisada usando fastText.
